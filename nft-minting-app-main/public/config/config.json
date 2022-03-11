@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB57DB1d5AaC65AbC8dCEa3d62Bb9ea001cdCBB93",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xb57db1d5aac65abc8dcea3d62bb9ea001cdcbb93",
+  "NETWORK": {
+    "NAME": "rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "NFT Blitz",
+  "SYMBOL": "BLITZ",
+  "MAX_SUPPLY": 800,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/theblitztest2",
+  "SHOW_BACKGROUND": true
+}
