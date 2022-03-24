@@ -120,6 +120,8 @@ function App() {
     SHOW_BACKGROUND: false,
   });
 
+  getData();
+
   const claimNFTs = () => {
     let cost = CONFIG.WEI_COST;
     let gasLimit = CONFIG.GAS_LIMIT;
