@@ -90,7 +90,7 @@ export const StyledImg = styled.img`
 `;
 
 export const StyledLink = styled.a`
-  color: var(--secondary);
+  color: rgb(213, 10, 11);
   text-decoration: none;
 `;
 
