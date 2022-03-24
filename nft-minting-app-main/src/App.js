@@ -225,12 +225,11 @@ function App() {
             <s.TextTitle
               style={{
                 textAlign: "center",
-                fontSize: 50,
-                fontWeight: "bold",
+                fontSize: 14,
                 color: "var(--accent-text)",
               }}
             >
-              Click here to buy
+              Connect your wallet to view total supply remaining
             </s.TextTitle>
 
             <s.TextTitle
