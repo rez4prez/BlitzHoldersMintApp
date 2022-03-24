@@ -120,8 +120,6 @@ function App() {
     SHOW_BACKGROUND: false,
   });
 
-  getData();
-
   const claimNFTs = () => {
     let cost = CONFIG.WEI_COST;
     let gasLimit = CONFIG.GAS_LIMIT;
@@ -224,6 +222,17 @@ function App() {
               boxShadow: "0px 5px 11px 2px rgba(0,0,0,0.7)",
             }}
           >
+            <s.TextTitle
+              style={{
+                textAlign: "center",
+                fontSize: 50,
+                fontWeight: "bold",
+                color: "var(--accent-text)",
+              }}
+            >
+              Click here to buy
+            </s.TextTitle>
+
             <s.TextTitle
               style={{
                 textAlign: "center",
