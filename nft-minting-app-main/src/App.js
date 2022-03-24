@@ -76,8 +76,8 @@ export const StyledLogo = styled.img`
 
 export const StyledImg = styled.img`
   box-shadow: 0px 5px 11px 2px rgba(0, 0, 0, 0.7);
-  border: 4px dashed var(--secondary);
-  background-color: var(--accent);
+  border: 4px dashed white;
+  background-color: #003368;
   border-radius: 100%;
   width: 200px;
   @media (min-width: 900px) {
@@ -215,10 +215,10 @@ function App() {
             jc={"center"}
             ai={"center"}
             style={{
-              backgroundColor: "var(--accent)",
+              backgroundColor: "#003368",
               padding: 24,
               borderRadius: 24,
-              border: "4px dashed var(--secondary)",
+              border: "4px dashed white",
               boxShadow: "0px 5px 11px 2px rgba(0,0,0,0.7)",
             }}
           >
