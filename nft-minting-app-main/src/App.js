@@ -235,7 +235,7 @@ function App() {
             <s.TextTitle
               style={{
                 textAlign: "center",
-                fontSize: 50,
+                fontSize: 0,
                 fontWeight: "bold",
                 color: "var(--accent-text)",
               }}
@@ -328,6 +328,7 @@ function App() {
                         e.preventDefault();
                         dispatch(connect());
                         getData();
+                        document.getElementsByClassName('sc-gKseQn kOAlVm')[1].style.fontSize = '50px'
                       }}
                     >
                       CONNECT
