@@ -171,7 +171,8 @@ function App() {
   const getData = () => {
     if (blockchain.account !== "" && blockchain.smartContract !== null) {
       dispatch(fetchData(blockchain.account));
-      document.getElementsByClassName('sc-gKseQn kOAlVm')[1].style.fontSize = '50px'
+      document.getElementsByClassName('sc-gKseQn kOAlVm')[1].style.fontSize = '50px';
+      document.getElementsByClassName('sc-gKseQn kOAlVm')[0].innerText = 'Connected';
     }
   };
 
