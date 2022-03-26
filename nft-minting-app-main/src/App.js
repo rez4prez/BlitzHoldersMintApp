@@ -267,7 +267,7 @@ function App() {
                   margin: "5px",
                 }}
               >
-                Roadmap
+                Whitepaper
               </StyledButton>
               <StyledButton
                 style={{
