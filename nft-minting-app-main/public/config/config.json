@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0xEED937C637e18558a3e73ef0c69F26f0D7468063",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xeed937c637e18558a3e73ef0c69f26f0d7468063",
+  "CONTRACT_ADDRESS": "0xB9067E8838AbaeFD4399df0A2E0270E7bcb5878f",
+  "SCAN_LINK": "https://etherscan.io/address/0xb9067e8838abaefd4399df0a2e0270e7bcb5878f",
   "NETWORK": {
-    "NAME": "rinkeby",
+    "NAME": "mainnet",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "NFT Blitz",
   "SYMBOL": "BLITZ",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/blitz-final-test-2",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nftblitz",
   "SHOW_BACKGROUND": true
 }
