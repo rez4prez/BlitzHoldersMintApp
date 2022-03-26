@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x4A7145d929Fb011569A4b60b4c1f8271Da79A379",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x4a7145d929fb011569a4b60b4c1f8271da79a379",
+  "CONTRACT_ADDRESS": "0xEED937C637e18558a3e73ef0c69F26f0D7468063",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xeed937c637e18558a3e73ef0c69f26f0d7468063",
   "NETWORK": {
     "NAME": "rinkeby",
     "SYMBOL": "ETH",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/theblitztest2",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/blitz-final-test-2",
   "SHOW_BACKGROUND": true
 }
